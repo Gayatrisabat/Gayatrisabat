@@ -22,16 +22,17 @@ I’m passionate about creating things on the web and diving deep into **AI and 
 ---
 
 ### 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabatGayatri&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabatGayatri&show_icons=true&theme=radical&cache_seconds=1800)
 
 ### 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabatGayatri&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabatGayatri&layout=compact&theme=radical&cache_seconds=1800)
 
 ### 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=sabatGayatri&label=PROFILE+VIEWS&color=blue&style=flat)
 
 ### 📈 Contribution Graph
-![Snake animation](https://github.com/sabatGayatri/sabatGayatri/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/sabatGayatri/sabatGayatri/output/github-contribution-grid-snake.svg)
+
 
 ---
 
