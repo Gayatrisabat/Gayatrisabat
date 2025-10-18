@@ -1,4 +1,5 @@
-# Hi there, I'm **Gayatri** 👋
+# Hi there,  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=350&height=60&lines=This_is_Gayatri)👋
 
 I'm a curious coder from **Mumbai**, currently pursuing my **B.E. in Computer Science and Data Science** at the **University of Mumbai**.  
 I’m passionate about creating on the web and diving deep into **AI and Machine Learning**.
@@ -10,8 +11,8 @@ I’m passionate about creating on the web and diving deep into **AI and Machine
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Python | HTML | CSS | JavaScript | React
-- ⚙️ Git | Pandas
+- 💻 Python | HTML | CSS | JavaScript | React | Express
+- ⚙️ Git | Pandas | Numpy
 
 ---
 
@@ -28,7 +29,7 @@ I’m passionate about creating on the web and diving deep into **AI and Machine
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayatrisabat&layout=compact&theme=radical)
 
 ### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=Gayatrisabat&label=PROFILE+VIEWS&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Gayatrisabat&style=flat-square&color=blue)
 
 ---
 
