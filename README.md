@@ -35,7 +35,7 @@ I’m passionate about creating on the **web** and diving deep into **AI and Mac
 ---
 
 ### 🐍 Contribution Graph
-![Snake animation](https://raw.githubusercontent.com/Gayatrisabat/Gayatrisabat/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Gayatrisabat/Gayatrisabat/output/github-contribution-grid-snake.svg)
 
 ---
 
